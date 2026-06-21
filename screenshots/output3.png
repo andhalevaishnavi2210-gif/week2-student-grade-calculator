@@ -1,0 +1,57 @@
+PS C:\Users\Narendra\OneDrive\Desktop\week2-grade-calculator..vaish> python -u "c:\Users\Narendra\OneDrive\Desktop\week2-grade-calculator..vaish\grade_calculator.py"
+==================================================
+      STUDENT GRADE CALCULATOR
+==================================================
+
+Enter Number of Students: 3
+
+========== STUDENT 1 ==========
+Student Name: suru
+
+Enter Marks (0-100)
+Math: 93
+Science: 76
+English: 66
+
+========== STUDENT 2 ==========
+Student Name: shrauu
+
+Enter Marks (0-100)
+Math: 9
+Science: 54
+English: 36
+
+========== STUDENT 3 ==========
+Student Name: nasu
+
+Enter Marks (0-100)
+Math: 98
+Science: 56
+English: 43
+
+
+================================================================================
+                           RESULTS SUMMARY
+================================================================================
+Name                 Average    Grade      Comment
+--------------------------------------------------------------------------------
+suru                 78.3       C          Good. Room for improvement. 😊
+shrauu               33.0       F          Failed. Please seek help from teacher. 💪
+nasu                 65.7       D          Needs Improvement. Please study more. 📚
+
+
+==================================================
+          CLASS STATISTICS
+==================================================
+Total Students : 3
+Class Average  : 59.0
+Highest Score  : 78.33333333333333 - suru
+Lowest Score   : 33.0 - shrauu
+
+Do you want to search a student? (yes/no): no
+
+Save results to file? (yes/no): no
+
+Thank You For Using Student Grade Calculator!
+==================================================
+PS C:\Users\Narendra\OneDrive\Desktop\week2-grade-calculator..vaish> 

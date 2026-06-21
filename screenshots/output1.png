@@ -1,0 +1,47 @@
+PS C:\Users\Narendra\OneDrive\Desktop\week2-grade-calculator..vaish> python -u "c:\Users\Narendra\OneDrive\Desktop\week2-grade-calculator..vaish\grade_calculator.py"
+==================================================
+      STUDENT GRADE CALCULATOR
+==================================================
+
+Enter Number of Students: 1
+
+========== STUDENT 1 ==========
+Student Name: vaish
+
+Enter Marks (0-100)
+Math: 70
+Science: 80
+English: 97
+
+
+================================================================================
+                           RESULTS SUMMARY
+================================================================================
+Name                 Average    Grade      Comment
+--------------------------------------------------------------------------------
+vaish                82.3       B          Very Good! You're doing well. 👍
+
+
+==================================================
+          CLASS STATISTICS
+==================================================
+Total Students : 1
+Class Average  : 82.33
+Highest Score  : 82.33333333333333 - vaish
+Lowest Score   : 82.33333333333333 - vaish
+
+Do you want to search a student? (yes/no): yes
+
+Enter student name to search: vaish
+
+Student Found
+----------------------------------------
+Name : vaish
+Average : 82.33
+Grade : B
+Comment : Very Good! You're doing well. 👍
+
+Save results to file? (yes/no): no
+
+Thank You For Using Student Grade Calculator!
+==================================================
