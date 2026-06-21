@@ -70,3 +70,5 @@ python grade_calculator.py
 Vaishnavi Govind Andhale 
 
 The Developers Arena – Python Learning Program
+
+Project uploaded successfully.
